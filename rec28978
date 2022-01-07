@@ -1,0 +1,22 @@
+Chen-Patrick-p3:
+total 140
+-rw-r--r--. 1 myid     0 Aug  2 20:09 a.out
+-rwxr-xr-x. 1 myid  8264 Aug  2 23:14 env
+-rw-r--r--. 1 myid   247 Aug  2 23:00 env.c
+-rwxr-xr-x. 1 myid  8048 Aug  2 23:14 false
+-rw-r--r--. 1 myid   184 Aug  2 22:30 false.c
+-rwxr-xr-x. 1 myid 12696 Aug  2 23:14 head
+-rw-r--r--. 1 myid  6990 Aug  2 20:40 head.c
+-rw-r--r--. 1 myid   289 Aug  2 22:33 Makefile
+-rw-r--r--. 1 myid   204 Aug  2 23:14 README.md
+-rw-r--r--. 1 myid     0 Aug  2 23:14 rec28978
+-rwxr-xr-x. 1 myid 12600 Aug  2 23:14 tail
+-rw-r--r--. 1 myid 13193 Aug  2 21:35 tail.c
+-rw-r--r--. 1 myid    91 Jul 31 20:24 test1.txt
+-rw-r--r--. 1 myid    77 Jul 31 20:25 test2.txt
+-rw-r--r--. 1 myid    14 Aug  2 00:26 test3.txt
+-rwxr-xr-x. 1 myid  8048 Aug  2 23:14 true
+-rw-r--r--. 1 myid   182 Aug  2 22:30 true.c
+-rwxr-xr-x. 1 myid 12656 Aug  2 23:14 wc
+-rw-r--r--. 1 myid  6785 Aug  2 22:28 wc.c
+/home/myid/pgc19941/Chen-Patrick-p3:/home/myid/csci-1730
